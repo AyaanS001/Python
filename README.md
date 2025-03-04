@@ -1,7 +1,7 @@
 # Retail Sales Performance Dashboard
 
 ## Description: 
-### (The code for this project is directly above!)
+### (The code for this project is directly above called 'Review Sales Analysis.ipynb')
 
 - This project analyzes warehouse and retail sales data to identify key trends, top-selling products, and seasonal sales variations. The objective is to help businesses optimize inventory management, improve product performance tracking, and gain actionable insights into sales trends. This project involves data cleaning, exploratory data analysis (EDA), and visualizations to provide clear insights.
 
